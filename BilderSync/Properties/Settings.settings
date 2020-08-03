@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BilderSync.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="lastSdCardPath" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="lastAimFolderPath" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="sdCardDirectories" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\DCIM:\PRIVATE\AVCHD\BDMV\STREAM</Value>
+    </Setting>
+    <Setting Name="fileFilter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.CTG:.LRV:.THM:.SAV</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
