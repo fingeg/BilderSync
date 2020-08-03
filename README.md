@@ -17,3 +17,9 @@ There is no guarantee, that the formats on the SD-Cards are always the same, but
 You select the path of the SD-Card and the target directory.
 Default BilderSync checks the images with previous synchronizations and copies only the new images in subdirectories for each day.
 But you also can copy only one specific day or compare the two directories completely and copy all different files (This process can need some time).
+
+## Language
+Currently only available in german.
+
+## Screenshot
+<img src="screenshot.png" />
